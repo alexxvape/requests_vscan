@@ -13,6 +13,6 @@ Ojo, en caso de que cualquier de los casos sea verdadero, no garantiza que sea u
 
 `--urls, -u` nos permite introducir links manualmente separados por una coma (,)
 
-`--file ,-f` nos permite introducir links a través de un archivo de texto. (En caso de error, introducir la ruta absoluta.)
+`--file, -f` nos permite introducir links a través de un archivo de texto. (En caso de error, introducir la ruta absoluta.)
 
-`--output ,-o` debemos especificar el archivo de salida del programa.
+`--output, -o` debemos especificar el archivo de salida del programa.
